@@ -19,6 +19,3 @@ velocidad y estrategia.</p>
 
 <h2>Nivel de dificultad: Básico</h2>
 
-Los robots de sumo suelen ser pequeños y compactos,
-diseñados para ser lo más efectivos posible en términos de potencia,
-velocidad y estrategia
