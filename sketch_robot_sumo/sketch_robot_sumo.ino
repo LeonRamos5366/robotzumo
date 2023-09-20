@@ -7,34 +7,37 @@ int TRIGGER = 9, ECHO = 8;
 int luz;
 int cny_LED = 2;
 
+
 void setup()
 {
 pinMode(cny_LED, OUTPUT); 
 digitalWrite(cny_LED,HIGH);//Enciende el LED IR embebido en el CNY70
-  
+
 pinMode(in1, OUTPUT);
 pinMode(in2, OUTPUT);
 pinMode(in3, OUTPUT);
 pinMode(in4, OUTPUT);
-analogWrite(enable1, 120);
-analogWrite(enable2, 120);
+analogWrite(enable1, 90);
+analogWrite(enable2, 70);
 Serial.begin(9600);
 pinMode(TRIGGER, OUTPUT); /*activación del pin 9 como salida: para el pulso ultrasónico*/
 pinMode(ECHO, INPUT); /*activación del pin 8 como entrada: tiempo del rebote del ultrasonido*/
 }
 void loop()
+
 {
 do {
 derecha();
 delay(200);
 distancia=distancia_medida();
-} while (distancia>=20);
+} while (distancia>=10);
 do {
 adelante();
 luz = analogRead(A1);
 distancia = distancia_medida();
+//Serial.println(luz);
 delay(80);
-} while (luz>900 || distancia<=20);
+} while (luz>900 || distancia<=10);
 detener();
 delay(1000);
 izquierda();
@@ -66,8 +69,9 @@ distancia = tiempo / 58;
 /*
 Serial.print(distancia);
 Serial.println(“cm”);
-delay(100);
-*/
+delay(100);*/
+Serial.println(distancia);
+Serial.println("cm");
 return distancia;
 }
 void detener() {
