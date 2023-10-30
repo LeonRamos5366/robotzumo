@@ -43,7 +43,9 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 * Conecta el módulo de baterías y el regulador de voltaje para asegurar un suministro de energía constante y estable.
 
 ## Simuladores
-[![Wokwi](https://avatars.githubusercontent.com/u/56967200?s=60&v=4style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://wokwi.com/)
+[![Wokwi](https://avatars.githubusercontent.com/u/56967200?s=60&v=4style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://wokwi.com/)Wokwi
+
+[![Tinkercad](https://www.tinkercad.com/assets_fe_3q85g80/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svgstyle=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://wokwi.com/)Tinkercad
 
 
 <A HREF="https://wokwi.com/">Arduino </A> <br>
@@ -51,4 +53,6 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 https://github.com/wokwi
 <A HREF="https://wokwi.com/">WOKWI</A> <br>
 <A HREF="https://www.tinkercad.com/">Tinkercad</A> 
+
+https://www.tinkercad.com/assets_fe_3q85g80/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svg
 
