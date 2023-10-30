@@ -31,7 +31,6 @@ Considerar silicon caliente, cinta doble cara para ancleje.
 * ***Computadora.***
 ![](images/8.png)
 
-<p align="center">
 # Diseño de un chasis o armado de uno prefabricado
 El chasis es el componente estructural del robot que contiene el tren motriz y permite que el robot sea móvil mediante el uso de ruedas, huellas de tanque u otro método. En ocasiones, un chasis se denomina estructura del robot. El chasis también proporciona una estructura para sujetar manipuladores como brazos, garras, elevadores, arados, sistemas de transporte, tomas de objetos y otras características de diseño utilizadas para manipular objetos. 
 
@@ -39,7 +38,7 @@ Comienza por diseñar y construir un chasis resistente y compacto para tu robot 
 
 Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para construir el chasis. Asegúrate de que sea lo suficientemente robusto para soportar los movimientos y colisiones durante las competencias.
 
-<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/armado1.jpeg" width="650"><p>
+![](images/armado1.jpeg)
 
 # Ensamblaje de los componentes
 ## ***Integrando Arduino UNO, Puente H, Motoreductores***
