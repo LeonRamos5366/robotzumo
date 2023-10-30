@@ -4,7 +4,7 @@
 [![Arduino IDE](https://github.com/arduino/arduino-ide/workflows/Arduino%20IDE/badge.svg)](https://github.com/arduino/arduino-ide/actions?query=workflow%3A%22Arduino+IDE%22)
 
 ![](images/Portada.jpg)
-## Nivel de dificultad: Básico
+# Nivel de dificultad: Básico
 
 Un robot de sumo con Arduino básico es un proyecto interesante y divertido que involucra la construcción de un pequeño robot diseñado para competir en combates de sumo.
 
@@ -12,7 +12,7 @@ Los robots de sumo suelen ser pequeños y compactos, diseñados para ser lo más
 
 Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
 
-## Lista de materiales:
+# ***Lista de materiales:***
 * Chasis con 2 o 4 Motor Reductor de Doble Eje Tipo I, 200RPM, 3-6V.
 ![](images/1.jpg)
 * Arduino Uno REV3 y su IDE.
@@ -31,7 +31,7 @@ Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
 * Computadora.
 ![](images/8.png)
 
-### Diseño de un chasis o armado de uno prefabricado 
+# ***Diseño de un chasis o armado de uno prefabricado***
 
 El chasis es el componente estructural del robot que contiene el tren motriz y permite que el robot sea móvil mediante el uso de ruedas, huellas de tanque u otro método. En ocasiones, un chasis se denomina estructura del robot. El chasis también proporciona una estructura para sujetar manipuladores como brazos, garras, elevadores, arados, sistemas de transporte, tomas de objetos y otras características de diseño utilizadas para manipular objetos. 
 
@@ -40,8 +40,8 @@ Comienza por diseñar y construir un chasis resistente y compacto para tu robot 
 Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para construir el chasis. Asegúrate de que sea lo suficientemente robusto para soportar los movimientos y colisiones durante las competencias.
 
 
-### Ensamblaje de los componentes
-### ***Integrando Arduino UNO, Puente H, Motoreductores***
+# Ensamblaje de los componentes
+## ***Integrando Arduino UNO, Puente H, Motoreductores***
 
 <hr>
 * Conecta el Arduino Uno al puente H L298N y este a su vez a los motores, esto permitirá controlar los motores del robot.
