@@ -43,7 +43,9 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 * Conecta el módulo de baterías y el regulador de voltaje para asegurar un suministro de energía constante y estable.
 
 ## Simuladores
-![](./images/Wokwi.png) WOKWI (https://wokwi.com/)
-![](./images/Tinkercad.png) WOKWI (https://www.tinkercad.com/)
+![](./images/Wokwi.png) 
+* [Wokwi] (https://wokwi.com/)
+![](./images/Tinkercad.png)
+* [Tinkercad] (https://www.tinkercad.com/)
 
 
