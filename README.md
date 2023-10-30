@@ -6,7 +6,7 @@
 ![](static/screenshot.png)
 
 
-
+## Nivel de dificultad: Básico
 
 Un robot de sumo con Arduino básico es un proyecto interesante y divertido que involucra la construcción de un pequeño robot diseñado para competir en combates de sumo.
 
@@ -27,7 +27,7 @@ Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
   <li>Computadora. </li>
 </ul>
 
-## Nivel de dificultad: Básico
+
 ### Diseño de un chasis o armado de uno prefabricado 
 
 El chasis es el componente estructural del robot que contiene el tren motriz y permite que el robot sea móvil mediante el uso de ruedas, huellas de tanque u otro método. En ocasiones, un chasis se denomina estructura del robot. El chasis también proporciona una estructura para sujetar manipuladores como brazos, garras, elevadores, arados, sistemas de transporte, tomas de objetos y otras características de diseño utilizadas para manipular objetos. 
