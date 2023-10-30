@@ -37,7 +37,7 @@ El chasis es el componente estructural del robot que contiene el tren motriz y p
 Comienza por diseñar y construir un chasis resistente y compacto para tu robot de sumo. Ten en cuenta el espacio reducido disponible para colocar todos los componentes.
 
 Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para construir el chasis. Asegúrate de que sea lo suficientemente robusto para soportar los movimientos y colisiones durante las competencias.
-<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/armado1.jpeg" width="350">
+<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/armado1.jpeg" width="650">
 
 # Ensamblaje de los componentes
 ## ***Integrando Arduino UNO, Puente H, Motoreductores***
