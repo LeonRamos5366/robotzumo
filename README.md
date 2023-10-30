@@ -45,7 +45,7 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 ## Simuladores
 [![Wokwi](https://avatars.githubusercontent.com/u/56967200?s=60&v=4style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://wokwi.com/)Wokwi
 
-[![Tinkercad](https://www.tinkercad.com/assets_fe_3q85g80/js/tinkercad-frontend/assets/images/tinkercad-lockup-color.svgstyle=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://wokwi.com/)Tinkercad
+[![Tinkercad](https://www.tinkercad.com/assets_fe_3q85g80/js/tinkercad-frontend/assets/images/tinkercad-lockup-white.svgstyle=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://wokwi.com/)Tinkercad
 
 
 <A HREF="https://wokwi.com/">Arduino </A> <br>
