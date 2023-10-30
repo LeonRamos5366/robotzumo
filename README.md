@@ -3,7 +3,7 @@
 
 [![Arduino IDE](https://github.com/arduino/arduino-ide/workflows/Arduino%20IDE/badge.svg)](https://github.com/arduino/arduino-ide/actions?query=workflow%3A%22Arduino+IDE%22)
 
-![](static/)
+![](images/Portada.jpg)
 ## Nivel de dificultad: Básico
 
 Un robot de sumo con Arduino básico es un proyecto interesante y divertido que involucra la construcción de un pequeño robot diseñado para competir en combates de sumo.
