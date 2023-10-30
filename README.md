@@ -45,11 +45,12 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 ## Simuladores
 ![](./images/Wokwi.png) 
 
-* [Wokwi] (https://wokwi.com/)
+* [Wokwi](https://wokwi.com/)
 
 
 
 ![](./images/Tinkercad.png)
-* [Tinkercad] (https://www.tinkercad.com/)
+
+* [Tinkercad](https://www.tinkercad.com/)
 
 
