@@ -41,7 +41,6 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 ![](images/armado1.jpeg)
 
 # Ensamblaje de los componentes
-<hr>
 ### ***Integrando Arduino UNO, Puente H, Motoreductores***
 
 * Conecta el Arduino Uno al puente H L298N y este a su vez a los motores, esto permitirá controlar los motores del robot.
