@@ -7,6 +7,7 @@
 
 
 
+
 Un robot de sumo con Arduino básico es un proyecto interesante y divertido que involucra la construcción de un pequeño robot diseñado para competir en combates de sumo.
 
 Los robots de sumo suelen ser pequeños y compactos, diseñados para ser lo más efectivos posible en términos de potencia, velocidad y estrategia
@@ -27,7 +28,7 @@ Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
 </ul>
 
 ## Nivel de dificultad: Básico
-###Diseño de un chasis o armado de uno prefabricado 
+### Diseño de un chasis o armado de uno prefabricado 
 
 El chasis es el componente estructural del robot que contiene el tren motriz y permite que el robot sea móvil mediante el uso de ruedas, huellas de tanque u otro método. En ocasiones, un chasis se denomina estructura del robot. El chasis también proporciona una estructura para sujetar manipuladores como brazos, garras, elevadores, arados, sistemas de transporte, tomas de objetos y otras características de diseño utilizadas para manipular objetos. 
 
@@ -36,12 +37,12 @@ Comienza por diseñar y construir un chasis resistente y compacto para tu robot 
 Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para construir el chasis. Asegúrate de que sea lo suficientemente robusto para soportar los movimientos y colisiones durante las competencias.
 
 
-###Ensamblaje de los componentes
-*Conecta el Arduino Uno al puente H L298N y este a los motores. Esto permitirá controlar los motores del robot.
+### Ensamblaje de los componentes
+* Conecta el Arduino Uno al puente H L298N y este a los motores. Esto permitirá controlar los motores del robot.
 
-*Conecta el sensor TCRT5000 y el HC-SR04 al Arduino Uno. Estos sensores serán responsables de detectar el borde del ring y al oponente, respectivamente.
+* Conecta el sensor TCRT5000 y el HC-SR04 al Arduino Uno. Estos sensores serán responsables de detectar el borde del ring y al oponente, respectivamente.
 
-*Conecta el módulo de baterías y el regulador de voltaje para asegurar un suministro de energía constante y estable.
+* Conecta el módulo de baterías y el regulador de voltaje para asegurar un suministro de energía constante y estable.
 
 ## Simuladores
 
