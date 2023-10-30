@@ -43,7 +43,7 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 ### Ensamblaje de los componentes
 * Conecta el Arduino Uno al puente H L298N y este a los motores. Esto permitirá controlar los motores del robot.
 
-![](images/primero1.jpeg)
+![](images/primero1.jpeg) ![](images/primero2.jpeg)
 * Conecta el sensor TCRT5000 y el HC-SR04 al Arduino Uno. Estos sensores serán responsables de detectar el borde del ring y al oponente, respectivamente.
 
 * Conecta el módulo de baterías y el regulador de voltaje para asegurar un suministro de energía constante y estable.
