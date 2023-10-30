@@ -27,12 +27,11 @@ Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
 ![](images/6.jpg)
 * ***Cautín, Estaño, pasta flux, Cables de conexión, Mini Protoboard.***
 ![](images/7.png)
-* Considerar silicon caliente, cinta doble cara para ancleje.
+Considerar silicon caliente, cinta doble cara para ancleje.
 * ***Computadora.***
 ![](images/8.png)
 
-# ***Diseño de un chasis o armado de uno prefabricado***
-
+# Diseño de un chasis o armado de uno prefabricado
 El chasis es el componente estructural del robot que contiene el tren motriz y permite que el robot sea móvil mediante el uso de ruedas, huellas de tanque u otro método. En ocasiones, un chasis se denomina estructura del robot. El chasis también proporciona una estructura para sujetar manipuladores como brazos, garras, elevadores, arados, sistemas de transporte, tomas de objetos y otras características de diseño utilizadas para manipular objetos. 
 
 Comienza por diseñar y construir un chasis resistente y compacto para tu robot de sumo. Ten en cuenta el espacio reducido disponible para colocar todos los componentes.
@@ -47,7 +46,7 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 * Conecta el Arduino Uno al puente H L298N y este a su vez a los motores, esto permitirá controlar los motores del robot.
 
 ***Circuit Diagram***
-<center><img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero1.jpeg" width="350"></center>
+<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero1.jpeg" width="350">
 
 ***Si estas utilizando el Mini puente H, verifica la conexión***
 ![](images/primero2.jpg)
