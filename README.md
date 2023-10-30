@@ -1,10 +1,10 @@
-#Robot Sumo
+# Robot Sumo
 
 Un robot de sumo con Arduino básico es un proyecto interesante y divertido que involucra la construcción de un pequeño robot diseñado para competir en combates de sumo.
 
 Los robots de sumo suelen ser pequeños y compactos, diseñados para ser lo más efectivos posible en términos de potencia, velocidad y estrategia
 
-* Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
+Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
 
 ## Lista de materiales:
 <ul>
