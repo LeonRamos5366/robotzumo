@@ -19,5 +19,5 @@ velocidad y estrategia.</p>
 
 <h2>Nivel de dificultad: Básico</h2>
 <h2> Simuladores </h2>
-<A HREF="https://wokwi.com/">WOKWI</A> 
+<A HREF="https://wokwi.com/">WOKWI</A> <br>
 <A HREF="https://www.tinkercad.com/">Tinkercad</A> 
