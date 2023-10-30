@@ -17,8 +17,8 @@ pinMode(in1, OUTPUT);
 pinMode(in2, OUTPUT);
 pinMode(in3, OUTPUT);
 pinMode(in4, OUTPUT);
-analogWrite(enable1, 90);
-analogWrite(enable2, 70);
+analogWrite(enable1, 180);
+analogWrite(enable2, 180);
 Serial.begin(9600);
 pinMode(TRIGGER, OUTPUT); /*activación del pin 9 como salida: para el pulso ultrasónico*/
 pinMode(ECHO, INPUT); /*activación del pin 8 como entrada: tiempo del rebote del ultrasonido*/
@@ -30,14 +30,14 @@ do {
 derecha();
 delay(200);
 distancia=distancia_medida();
-} while (distancia>=10);
+} while (distancia>=20);
 do {
 adelante();
 luz = analogRead(A1);
 distancia = distancia_medida();
 //Serial.println(luz);
 delay(80);
-} while (luz>900 || distancia<=10);
+} while (luz>900 || distancia<=20);
 detener();
 delay(1000);
 izquierda();

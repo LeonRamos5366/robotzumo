@@ -7,7 +7,7 @@ velocidad y estrategia.</p>
 
 <h2> Lista de materiales:</h2>
 <ul>
-  <li>Chasis con 2 llantas</li>
+  <li>Chasis con 2 o 4 llantas </li>
   <li>Arduino Uno</li>
   <li>Puente H L298N o Mini L298N</li>
   <li>HC-SR04 Ultrasonico</li>
@@ -18,4 +18,6 @@ velocidad y estrategia.</p>
 </ul>
 
 <h2>Nivel de dificultad: Básico</h2>
-
+<h2> Simuladores </h2>
+<A HREF="https://wokwi.com/">WOKWI</A> 
+<A HREF="https://www.tinkercad.com/">Tinkercad</A> 
