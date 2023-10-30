@@ -47,7 +47,7 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 * Conecta el Arduino Uno al puente H L298N y este a los motores. Esto permitirá controlar los motores del robot.
 
 ***Circuit Diagram***
-![](images/primero1.jpeg)
+<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero1.jpeg" width="650">
 
 ***Si estas utilizando el Mini puente H, verifica la conexión***
 ![](images/primero2.jpg)
