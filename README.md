@@ -14,8 +14,8 @@ velocidad y estrategia.</p>
   <li>TCRT5000 Optico Infrarrojo.</li>
   <li>Lipo Batería 7,4 V 1500 MAh y su cargador.</li>
   <li>Cautín, Estaño, pasta flux, Cables de conexión, Mini Protoboard.</li>
-  <li>Considerar silicon caliente, cinta doble cara para ancleje </li>
-  <li>Computadora </li>
+  <li>Considerar silicon caliente, cinta doble cara para ancleje. </li>
+  <li>Computadora. </li>
 </ul>
 
 <div><h2>Nivel de dificultad: Básico</h2>
@@ -24,6 +24,14 @@ velocidad y estrategia.</p>
 <p> Comienza por diseñar y construir un chasis resistente y compacto para tu robot de sumo. Ten en cuenta el espacio reducido disponible para colocar todos los componentes.</p>
 <p>Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para construir el chasis. Asegúrate de que sea lo suficientemente robusto para soportar los movimientos y colisiones durante las competencias.</p></div>
 
+<div>
+<h3>Ensamblaje de los componentes</h3>
+<p>Conecta el Arduino Uno al puente H L298N y este a los motores. Esto permitirá controlar los motores del robot.</p>
+
+<p>Conecta el sensor TCRT5000 y el HC-SR04 al Arduino Uno. Estos sensores serán responsables de detectar el borde del ring y al oponente, respectivamente.</p>
+
+<p>Conecta el módulo de baterías y el regulador de voltaje para asegurar un suministro de energía constante y estable.</p>
+</div>
 <h2> Simuladores </h2>
 <A HREF="https://wokwi.com/">Arduino </A> <br>
 <A HREF="https://wokwi.com/">WOKWI</A> <br>
