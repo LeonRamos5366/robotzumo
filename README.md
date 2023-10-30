@@ -16,10 +16,15 @@ Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
 * Chasis con 2 o 4 Motor Reductor de Doble Eje Tipo I, 200RPM, 3-6V.
 ![](images/Chasis.jpg)
 * Arduino Uno REV3 y su IDE.
+![](images/2.jpg)
 * Puente H L298N o Mini L298N.
+![](images/3.jpg)
 * HC-SR04 Ultrasonico.
+![](images/4.jpg)
 * TCRT5000 Optico Infrarrojo.
+![](images/5.jpg)
 * Lipo Batería 7,4 V 1500 MAh y su cargador.
+![](images/6.jpg)
 * Cautín, Estaño, pasta flux, Cables de conexión, Mini Protoboard.
 * Considerar silicon caliente, cinta doble cara para ancleje. 
 * Computadora.
