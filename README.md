@@ -15,6 +15,7 @@ Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
 ## Lista de materiales:
 <ul>
   <li>Chasis con 2 o 4 Motor Reductor de Doble Eje Tipo I, 200RPM, 3-6V.</li>
+  ![](images/Chasis.jpg)
   <li>Arduino Uno REV3 y su IDE.</li>
   <li>Puente H L298N o Mini L298N.</li>
   <li>HC-SR04 Ultrasonico.</li>
