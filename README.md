@@ -26,10 +26,10 @@ Aquí tienes los pasos básicos para crear un robot de sumo con Arduino:
 * Lipo Batería 7,4 V 1500 MAh y su cargador.
 ![](images/6.jpg)
 * Cautín, Estaño, pasta flux, Cables de conexión, Mini Protoboard.
-![](images/7.jpg)
+![](images/7.png)
 * Considerar silicon caliente, cinta doble cara para ancleje. 
 * Computadora.
-![](images/8.jpg)
+![](images/8.png)
 
 ### Diseño de un chasis o armado de uno prefabricado 
 
