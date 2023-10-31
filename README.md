@@ -42,19 +42,18 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 
 
 # Ensamblaje de los componentes
-* ***Integrando Arduino UNO, Puente H, Motoreductores**
+* ***Integrando Arduino UNO, Puente H, Motoreductores***
 
 Conecta el Arduino Uno al puente H L298N y este a su vez a los motores, esto permitirá controlar los motores del robot.
 
 * ***Diagrama del Circuito***
 
 
+![](images/primero1.jpg)
 
-<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero1.jpeg" width="350">
 
 ***Si estas utilizando el Mini puente H, verifica la conexión***
-![](images/primero2.jpg)
-
+<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero2.jpeg" width="350">
 
 ***Arduino Code***
 
