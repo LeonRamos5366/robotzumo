@@ -54,7 +54,7 @@ Conecta el Arduino Uno al puente H L298N y este a su vez a los motores, esto per
 ***Si estas utilizando el Mini puente H, verifica la conexión***
 
 
-<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero2.jpg" width="650">
+<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero2.png" width="650">
 
 ***Arduino Code***
 
