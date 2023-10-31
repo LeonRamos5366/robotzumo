@@ -1,5 +1,5 @@
 # Robot Sumo
-<img src="https://content.arduino.cc/website/Arduino_logo_teal.svg" height="100" align="right" />
+<img src="https://content.arduino.cc/website/Arduino_logo_teal.svg" height="80" align="right" />
 
 [![Arduino IDE](https://github.com/arduino/arduino-ide/workflows/Arduino%20IDE/badge.svg)](https://github.com/arduino/arduino-ide/actions?query=workflow%3A%22Arduino+IDE%22)
 
@@ -54,7 +54,7 @@ Conecta el Arduino Uno al puente H L298N y este a su vez a los motores, esto per
 ***Si estas utilizando el Mini puente H, verifica la conexión***
 
 
-<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero2.png" width="650">
+<img src="https://github.com/LeonRamos5366/robotzumo/blob/main/images/primero2.png" width="750">
 
 ***Arduino Code***
 
