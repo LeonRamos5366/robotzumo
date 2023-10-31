@@ -40,6 +40,7 @@ Utiliza materiales ligeros pero duraderos, como plástico o aluminio, para const
 
 ![](images/armado1.jpeg)
 
+
 # Ensamblaje de los componentes
 * ***Integrando Arduino UNO, Puente H, Motoreductores
 
